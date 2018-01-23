@@ -13,6 +13,7 @@
     "url": "git://github.com/matt-gadd/css-select.git"
   },
   "files": [
+    "index.d.ts",
     "css-select.js"
   ],
   "main": "css-select.js",
