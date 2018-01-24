@@ -3,9 +3,9 @@ var path = require("path");
 module.exports = {
 	entry: "./index.js",
 	output: {
-		path: path.resolve("./"),
+		path: path.resolve("./dist"),
 		libraryTarget: "umd",
-		filename: "css-select.js",
+		filename: "index.js",
 		library: "cssSelect"
 	}
 };

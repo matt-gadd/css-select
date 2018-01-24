@@ -14,9 +14,9 @@
   },
   "files": [
     "index.d.ts",
-    "css-select.js"
+    "dist/index.js"
   ],
-  "main": "css-select.js",
+  "main": "./dist/index.js",
   "dependencies": {
     "boolbase": "^1.0.0",
     "css-what": "2.1",
